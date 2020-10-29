@@ -47,6 +47,7 @@ public class Quatro {
 		}
 
 		imprime(agenda);
+		scan.close();
 	}
 
 	private static void imprime(String[][] agenda) {

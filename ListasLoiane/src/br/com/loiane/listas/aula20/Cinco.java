@@ -112,6 +112,8 @@ public class Cinco {
 				System.out.println("Opção inválida, digite novamente");
 			}
 		}
+		
+		scan.close();
 
 	}
 }

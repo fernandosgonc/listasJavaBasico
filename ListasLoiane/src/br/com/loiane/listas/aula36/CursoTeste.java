@@ -39,6 +39,7 @@ public class CursoTeste {
 		curso1.setAlunos(alunos);
 		
 		System.out.println(curso1.toString());
+		scan.close();
 		
 	}
 	

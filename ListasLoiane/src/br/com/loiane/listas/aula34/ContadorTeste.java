@@ -2,6 +2,7 @@ package br.com.loiane.listas.aula34;
 
 public class ContadorTeste {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		Contador c = new Contador();
