@@ -12,6 +12,7 @@ public class Aula88GregorianCalendar {
 		// System.out.println(hoje);
 		// System.out.println(hoje1);
 		imprimirCalendar(hoje1);
+		imprimirCalendar(hoje);
 	
 		
 		
